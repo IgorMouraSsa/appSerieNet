@@ -1,0 +1,16 @@
+C:\Users\Igor Moura\Desktop\C#\TreinamentoCSharp\bin\Debug\net5.0\TreinamentoCSharp.exe
+C:\Users\Igor Moura\Desktop\C#\TreinamentoCSharp\bin\Debug\net5.0\TreinamentoCSharp.deps.json
+C:\Users\Igor Moura\Desktop\C#\TreinamentoCSharp\bin\Debug\net5.0\TreinamentoCSharp.runtimeconfig.json
+C:\Users\Igor Moura\Desktop\C#\TreinamentoCSharp\bin\Debug\net5.0\TreinamentoCSharp.runtimeconfig.dev.json
+C:\Users\Igor Moura\Desktop\C#\TreinamentoCSharp\bin\Debug\net5.0\TreinamentoCSharp.dll
+C:\Users\Igor Moura\Desktop\C#\TreinamentoCSharp\bin\Debug\net5.0\ref\TreinamentoCSharp.dll
+C:\Users\Igor Moura\Desktop\C#\TreinamentoCSharp\bin\Debug\net5.0\TreinamentoCSharp.pdb
+C:\Users\Igor Moura\Desktop\C#\TreinamentoCSharp\obj\Debug\net5.0\TreinamentoCSharp.csproj.AssemblyReference.cache
+C:\Users\Igor Moura\Desktop\C#\TreinamentoCSharp\obj\Debug\net5.0\TreinamentoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor Moura\Desktop\C#\TreinamentoCSharp\obj\Debug\net5.0\TreinamentoCSharp.AssemblyInfoInputs.cache
+C:\Users\Igor Moura\Desktop\C#\TreinamentoCSharp\obj\Debug\net5.0\TreinamentoCSharp.AssemblyInfo.cs
+C:\Users\Igor Moura\Desktop\C#\TreinamentoCSharp\obj\Debug\net5.0\TreinamentoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Igor Moura\Desktop\C#\TreinamentoCSharp\obj\Debug\net5.0\TreinamentoCSharp.dll
+C:\Users\Igor Moura\Desktop\C#\TreinamentoCSharp\obj\Debug\net5.0\ref\TreinamentoCSharp.dll
+C:\Users\Igor Moura\Desktop\C#\TreinamentoCSharp\obj\Debug\net5.0\TreinamentoCSharp.pdb
+C:\Users\Igor Moura\Desktop\C#\TreinamentoCSharp\obj\Debug\net5.0\TreinamentoCSharp.genruntimeconfig.cache
